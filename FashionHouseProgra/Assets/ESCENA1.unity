@@ -475,6 +475,7 @@ GameObject:
   - component: {fileID: 453512086}
   - component: {fileID: 453512085}
   - component: {fileID: 453512084}
+  - component: {fileID: 453512088}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -574,6 +575,35 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &453512088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 453512083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 498f360a7e7e9864b96ebc4d3a064f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cabello:
+  - {fileID: -2512739131889515882, guid: c0c1f4118c72a4942965dddec9c97492, type: 3}
+  - {fileID: 0}
+  zapatos: []
+  falda: []
+  top: []
+  accesorio: []
+  numCabello: 0
+  numZapatos: 0
+  numFalda: 0
+  numTop: 0
+  numAccesorio: 0
+  imagenCabello: {fileID: 0}
+  imagenAccesorio: {fileID: 0}
+  imagenTop: {fileID: 0}
+  imagenFalda: {fileID: 0}
+  imagenZapatos: {fileID: 0}
 --- !u!1 &580530442
 GameObject:
   m_ObjectHideFlags: 0
