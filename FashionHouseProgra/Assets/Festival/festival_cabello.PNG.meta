@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      festival_cabello_0: -2104035206780724691
+      festival_cabello_1: -6455259108401662163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

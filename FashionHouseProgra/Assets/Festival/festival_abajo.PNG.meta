@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      festival_abajo_0: -434014802753709590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

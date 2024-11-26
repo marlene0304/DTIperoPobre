@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Accesorios_0: 3834501286239936994
+      Accesorios_1: 8873237247595338332
+      Accesorios_2: -5708845494353773205
+      Accesorios_3: 8501214241528362443
+      Accesorios_4: -231232001961284781
+      Accesorios_5: -6530399750854427168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

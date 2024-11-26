@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sandalias_Verano_0: -679297822510035886
+      Sandalias_Verano_1: 1978451474379043189
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

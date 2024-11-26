@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      festival_arriba_0: 4499763279027683864
+      festival_arriba_1: -7067203785988545829
+      festival_arriba_2: 7851309421798708395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

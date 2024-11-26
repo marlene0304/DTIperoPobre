@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Zapatos_Gala_0: -2066367266494026653
+      Zapatos_Gala_1: 8609236004518631325
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

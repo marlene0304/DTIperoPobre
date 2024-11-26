@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cabello_0: 5888458240788624036
+      Cabello_1: -8426621977037858130
+      Cabello_2: -5290070597945436841
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cabello_cyber_0: 5884411484955744121
+      cabello_cyber_1: -636704247236346432
+      cabello_cyber_2: 362210966235220044
+      cabello_cyber_3: -8815994038668516446
+      cabello_cyber_4: 2892650772060528504
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
