@@ -13,6 +13,7 @@ public class ChangeClothes : MonoBehaviour
     public Sprite[] top;
     public Sprite[] accesorio;
 
+
     //Numero de la actual prenda
     //No modificar
     public int numCabello, numZapatos, numFalda, numTop, numAccesorio;
@@ -37,6 +38,7 @@ public class ChangeClothes : MonoBehaviour
         ChangeColor(imagenTop, numTop);
         ChangeColor(imagenFalda, numFalda);
         ChangeColor(imagenZapatos, numZapatos);*/
+
 
         imagenCabello.sprite = cabello[numCabello];
         imagenAccesorio.sprite = accesorio[numAccesorio];
@@ -116,7 +118,7 @@ public class ChangeClothes : MonoBehaviour
         return valor;
     }
 
-    public void ChangeClothe(Image conjunto, int index)
+    public void ChangeColor(Image conjunto, int index)
     {
         switch (index)
         {
