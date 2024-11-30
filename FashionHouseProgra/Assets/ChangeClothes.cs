@@ -73,7 +73,7 @@ public class ChangeClothes : MonoBehaviour
         
     }
 
-    //Calcula el puntaje //test
+    //Calcula el puntaje //test //test2
     public void Finish()
     {
         //Tematicas: 0-Invierno 1-Festival 2-Verano 3-Gala 4-Cyberpunk
@@ -92,7 +92,7 @@ public class ChangeClothes : MonoBehaviour
 
     }
 
-    //NO TOCAR
+    //NO TOCAR //Agregado valores por prenda en Invierno, Gala y Cyberpunk
     public int PuntosPorPrenda(int NumeroDeLaParteDeLaPrenda, int PrendaSeleccionada, int Tematica)
     {
         //Tematicas: 0-Invierno 1-Festival 2-Verano 3-Gala 4-Cyberpunk
@@ -109,20 +109,20 @@ public class ChangeClothes : MonoBehaviour
                             case 0:
                                 return 5;
                             case 1:
-                                return 3;
+                                return 5;
                             case 2:
-                                return 1;
+                                return 5;
                             case 3:
-                                return 1;
+                                return 5;
                             case 4:
-                                return 4;
+                                return 5;
                         }
                         break;
                     case 1:
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 5;
+                                return 3;
                             case 1:
                                 return 1;
                             case 2:
@@ -130,20 +130,20 @@ public class ChangeClothes : MonoBehaviour
                             case 3:
                                 return 4;
                             case 4:
-                                return 2;
+                                return 1;
                         }
                         break;
                     case 2:
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 5;
+                                return 1;
                             case 1:
                                 return 1;
                             case 2:
                                 return 1;
                             case 3:
-                                return 5;
+                                return 1;
                             case 4:
                                 return 1;
                         }
@@ -152,28 +152,28 @@ public class ChangeClothes : MonoBehaviour
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 5;
+                                return 1;
                             case 1:
                                 return 4;
                             case 2:
-                                return 1;
+                                return 5;
                             case 3:
                                 return 3;
                             case 4:
-                                return 4;
+                                return 3;
                         }
                         break;
                     case 4:
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 5;
+                                return 4;
                             case 1:
-                                return 1;
+                                return 2;
                             case 2:
                                 return 1;
                             case 3:
-                                return 3;
+                                return 4;
                             case 4:
                                 return 2;
                         }
@@ -349,26 +349,26 @@ public class ChangeClothes : MonoBehaviour
                             case 0:
                                 return 3;
                             case 1:
-                                return 1;
+                                return 4;
                             case 2:
-                                return 1;
+                                return 3;
                             case 3:
-                                return 5;
+                                return 3;
                             case 4:
-                                return 1;
+                                return 4;
                         }
                         break;
                     case 1:
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 4;
+                                return 1;
                             case 1:
                                 return 1;
                             case 2:
                                 return 1;
                             case 3:
-                                return 5;
+                                return 1;
                             case 4:
                                 return 1;
                         }
@@ -377,13 +377,13 @@ public class ChangeClothes : MonoBehaviour
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 3;
+                                return 1;
                             case 1:
                                 return 1;
                             case 2:
                                 return 1;
                             case 3:
-                                return 5;
+                                return 1;
                             case 4:
                                 return 1;
                         }
@@ -392,28 +392,28 @@ public class ChangeClothes : MonoBehaviour
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 3;
+                                return 5;
                             case 1:
-                                return 1;
+                                return 5;
                             case 2:
-                                return 1;
+                                return 5;
                             case 3:
                                 return 5;
                             case 4:
-                                return 1;
+                                return 5;
                         }
                         break;
                     case 4:
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 4;
+                                return 1;
                             case 1:
                                 return 1;
                             case 2:
                                 return 1;
                             case 3:
-                                return 5;
+                                return 1;
                             case 4:
                                 return 1;
                         }
@@ -433,9 +433,9 @@ public class ChangeClothes : MonoBehaviour
                             case 2:
                                 return 1;
                             case 3:
-                                return 1;
+                                return 3;
                             case 4:
-                                return 5;
+                                return 1;
                         }
                         break;
                     case 1:
@@ -446,11 +446,11 @@ public class ChangeClothes : MonoBehaviour
                             case 1:
                                 return 4;
                             case 2:
-                                return 1;
+                                return 3;
                             case 3:
-                                return 1;
+                                return 4;
                             case 4:
-                                return 5;
+                                return 4;
                         }
                         break;
                     case 2:
@@ -459,41 +459,41 @@ public class ChangeClothes : MonoBehaviour
                             case 0:
                                 return 1;
                             case 1:
-                                return 3;
+                                return 1;
                             case 2:
                                 return 1;
                             case 3:
-                                return 4;
+                                return 1;
                             case 4:
-                                return 5;
+                                return 2;
                         }
                         break;
                     case 3:
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 3;
-                            case 1:
-                                return 4;
-                            case 2:
                                 return 1;
+                            case 1:
+                                return 1;
+                            case 2:
+                                return 4;
                             case 3:
                                 return 2;
                             case 4:
-                                return 5;
+                                return 1;
                         }
                         break;
                     case 4:
                         switch (PrendaSeleccionada)
                         {
                             case 0:
-                                return 1;
+                                return 5;
                             case 1:
-                                return 4;
+                                return 5;
                             case 2:
-                                return 2;
+                                return 5;
                             case 3:
-                                return 1;
+                                return 5;
                             case 4:
                                 return 5;
                         }
