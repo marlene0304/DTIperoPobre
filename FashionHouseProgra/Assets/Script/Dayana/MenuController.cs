@@ -8,7 +8,12 @@ public class MenuController : MonoBehaviour
     public void PlayGame()
     {
         // Cargar la escena principal (asegúrate de tener una escena llamada "MainScene")
-        SceneManager.LoadScene("MainScene");
+        SceneManager.LoadScene("ESCENA1");
+    }
+    public void MainMenu()
+    {
+        // Cargar la escena principal (asegúrate de tener una escena llamada "MainScene")
+        SceneManager.LoadScene("ScenaMenu");
     }
 
     // Función para mostrar el lore
@@ -23,5 +28,11 @@ public class MenuController : MonoBehaviour
     {
         // Aquí puedes agregar la lógica para mostrar el tutorial
         Debug.Log("Mostrando el tutorial...");
+
+    }
+    public void Salir()
+    {
+        Debug.Log("Salir...");
+        Application.Quit();
     }
 }
