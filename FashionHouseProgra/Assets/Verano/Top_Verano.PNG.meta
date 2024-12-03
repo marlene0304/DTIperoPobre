@@ -97,7 +97,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -116,10 +116,10 @@ TextureImporter:
       name: Top_Verano_0
       rect:
         serializedVersion: 2
-        x: 818
-        y: 1837
-        width: 431
-        height: 505
+        x: 666
+        y: 905
+        width: 218
+        height: 254
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

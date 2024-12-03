@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 
-public class Timer : MonoBehaviour
+public class temporizador : MonoBehaviour
 {
 
     public TMP_Text numero;
