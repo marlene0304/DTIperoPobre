@@ -8,6 +8,7 @@ public class temporizador : MonoBehaviour
 
     public TMP_Text numero;
     public float contador;
+    public GameObject pantallaFinal;
 
     //string = es un arreglo de char
     // string = texto

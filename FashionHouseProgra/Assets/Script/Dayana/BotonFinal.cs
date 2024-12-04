@@ -3,22 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 //using UnityEngine.UI;
-
-
-
-public class Menu : MonoBehaviour
+public class BotonFinal : MonoBehaviour
 {
 
     public void ChangeScene()
     {
-        SceneManager.LoadScene("Juego");
+        SceneManager.LoadScene("PantallaFinal");
     }
-    
-    public void ExitGame()
-    {
-        
-        Application.Quit();
-
-    }
-
 }
+
+
+
+
