@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 32b50c654fb91fe4bb38e7038f567c40
+guid: e27dd9d50763d8c43ba499eae6438223
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6839083511501418385
-    second: Cabello_Verano_0
+      213: 7252159812827188634
+    second: ShortVerano_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cabello_Verano_0
+      name: ShortVerano_0
       rect:
         serializedVersion: 2
-        x: 606
-        y: 1203
-        width: 225
-        height: 210
+        x: 643
+        y: 671
+        width: 286
+        height: 245
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19fe54cf73e49ee50800000000000000
-      internalID: 6839083511501418385
+      spriteID: a9d8de91de8d4a460800000000000000
+      internalID: 7252159812827188634
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Cabello_Verano_0: 6839083511501418385
+      ShortVerano_0: 7252159812827188634
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

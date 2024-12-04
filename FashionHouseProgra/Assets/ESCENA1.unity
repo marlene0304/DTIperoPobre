@@ -1048,31 +1048,31 @@ MonoBehaviour:
   cabello:
   - {fileID: 21300000, guid: ede841c3a684f3f4b80ae7d98e35e067, type: 3}
   - {fileID: 21300000, guid: 71411d8beb1ed4c429defeba4c7902d6, type: 3}
-  - {fileID: 21300000, guid: 32b50c654fb91fe4bb38e7038f567c40, type: 3}
+  - {fileID: 21300000, guid: d01bcba9c6d4c114bb35eef629807622, type: 3}
   - {fileID: 21300000, guid: 5647f347498e33b40b3e46a59ef17431, type: 3}
   - {fileID: 21300000, guid: b5dce606c4fc64c4aaa84fa0c66fb567, type: 3}
   zapatos:
   - {fileID: 21300000, guid: fef748c2642f38247b8571f9a8c2819f, type: 3}
   - {fileID: 21300000, guid: 47c07274585f21049843e2d2da806f4d, type: 3}
-  - {fileID: 21300000, guid: 0f3316f7056626345be7744e6fb69499, type: 3}
+  - {fileID: 21300000, guid: 2a2aefa983916b1489bc827e9b91dd9f, type: 3}
   - {fileID: 21300000, guid: 9bd54aa1eb44ac0459bf8569e1f76a63, type: 3}
   - {fileID: 21300000, guid: c38f16f19a64e89479b98162d6f051c5, type: 3}
   falda:
   - {fileID: 21300000, guid: 1b9ad22878bd3834d9cf44456a8faf97, type: 3}
   - {fileID: 21300000, guid: 44380d32b91daa74091c0321598be693, type: 3}
-  - {fileID: 21300000, guid: f91267cd6f46f9146be885e2337f541a, type: 3}
+  - {fileID: 21300000, guid: e27dd9d50763d8c43ba499eae6438223, type: 3}
   - {fileID: 21300000, guid: 7ec6a921cb7fb8f48bce920c999e8281, type: 3}
   - {fileID: 21300000, guid: 555b6d2b47b94ff4bb9f1af44a5e91fc, type: 3}
   top:
   - {fileID: 21300000, guid: 97fc232506b79bb4fa30a818dc001a77, type: 3}
   - {fileID: 21300000, guid: 0f3c3dfaab771c5409466e53bc69ba55, type: 3}
-  - {fileID: 21300000, guid: 28d72e9a823e9e74da3ae8bbd0039414, type: 3}
+  - {fileID: 21300000, guid: 169265683e70f7745ace52f18ce75d36, type: 3}
   - {fileID: 21300000, guid: ab789afa8ecd2d54ca3202910c819684, type: 3}
   - {fileID: 21300000, guid: 7e850bd1af60e76418a773aab983c634, type: 3}
   accesorio:
   - {fileID: 21300000, guid: 51cdcc127e90a1d4fa665954349d7bb9, type: 3}
   - {fileID: 21300000, guid: 2bf991b018394eb44818480082a5da9c, type: 3}
-  - {fileID: 21300000, guid: 899100a8b7aa8f64fa51c50e0b1fcf34, type: 3}
+  - {fileID: 21300000, guid: 241ec76ea1605a84f85f46879a622d8a, type: 3}
   - {fileID: 21300000, guid: e45841c9c7de3c647ad5b5f9a6f8626e, type: 3}
   - {fileID: 21300000, guid: b3329752b6a76e4439b6710a72cf5cc3, type: 3}
   numCabello: 0

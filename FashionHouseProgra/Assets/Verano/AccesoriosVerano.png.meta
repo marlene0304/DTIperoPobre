@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 28d72e9a823e9e74da3ae8bbd0039414
+guid: 241ec76ea1605a84f85f46879a622d8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5502161224587307219
-    second: Top_Verano_0
+      213: 8190985196004401994
+    second: AccesoriosVerano_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Top_Verano_0
+      name: AccesoriosVerano_0
       rect:
         serializedVersion: 2
-        x: 666
-        y: 905
-        width: 218
-        height: 254
+        x: 696
+        y: 1249
+        width: 146
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d864786b7a9b5c40800000000000000
-      internalID: 5502161224587307219
+      spriteID: a43635853a93ca170800000000000000
+      internalID: 8190985196004401994
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Top_Verano_0: 5502161224587307219
+      AccesoriosVerano_0: 8190985196004401994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

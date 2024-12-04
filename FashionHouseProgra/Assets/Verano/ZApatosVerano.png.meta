@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 899100a8b7aa8f64fa51c50e0b1fcf34
+guid: 2a2aefa983916b1489bc827e9b91dd9f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5874411242748619711
-    second: Accesorio_Verano_0
+      213: 790359114273697646
+    second: ZApatosVerano_0
+  - first:
+      213: -2017220885867372704
+    second: ZApatosVerano_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +99,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Accesorio_Verano_0
+      name: ZApatosVerano_0
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1239
-        width: 145
-        height: 60
+        x: 497
+        y: 41
+        width: 101
+        height: 145
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fbba79cb6e9168150800000000000000
-      internalID: 5874411242748619711
+      spriteID: e6fa64b4d6be7fa00800000000000000
+      internalID: 790359114273697646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZApatosVerano_1
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 66
+        width: 147
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f5060ca446104e0800000000000000
+      internalID: -2017220885867372704
       vertices: []
       indices: 
       edges: []
@@ -148,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Accesorio_Verano_0: 5874411242748619711
+      ZApatosVerano_0: 790359114273697646
+      ZApatosVerano_1: -2017220885867372704
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
